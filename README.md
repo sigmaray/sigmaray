@@ -6,7 +6,7 @@
 I'm Ruby on Rails and React developer. In my spare time I do programming experiments.
 
 Here you can find a few projects that might be interesting:
-* PyQT snake game
+* PyQT snake game: https://github.com/sigmaray/pyqtsnake
 * JavaScript snake game with settings stored in web storage: https://github.com/sigmaray/jssnake (demo: http://sigmaray.com/jssnake/)
 * Stopwatch and timer in Python/QT: https://github.com/sigmaray/pyqtstopwatch
 <!-- * RSS reader implented in Ruby on Rails: https://github.com/sigmaray/rails-rss-reader -->
