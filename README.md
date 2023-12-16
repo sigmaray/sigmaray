@@ -12,3 +12,4 @@ Here you can find a few projects that might be interesting:
 <!-- * RSS reader implented in Ruby on Rails: https://github.com/sigmaray/rails-rss-reader -->
 * Flickr slideshow in React: https://github.com/sigmaray/react-flickr-slideshow (demo: https://sigmaray.github.io/react-flickr-slideshow-demo/)
 <!-- * Random street view: https://github.com/sigmaray/sigmageo-ruby (demo: https://sigmageo.herokuapp.com/) -->
+* Clojure program that shows current temperature inside tray icon: https://github.com/sigmaray/clojure-weather
